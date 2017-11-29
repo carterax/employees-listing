@@ -1,0 +1,16 @@
+{
+  "name": "employees",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.1.1",
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "^16.1.1"
+  }
+}
